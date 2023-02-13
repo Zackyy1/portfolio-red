@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:svgjs="http://svgjs.dev/svgjs" viewBox="0 0 800 800">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="cccoil-grad">
+            <stop stop-color="hsl(0, 75%, 49%)" stop-opacity="1" offset="0%"></stop>
+            <stop stop-color="hsl(0, 100%, 7%)" stop-opacity="1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke="url(#cccoil-grad)" fill="none" stroke-linecap="round">
+        <circle r="378" cx="400" cy="400" stroke-width="4" stroke-dasharray="2375 2375"
+            transform="rotate(360, 400, 400)" opacity="0.89"></circle>
+        <circle r="346.5" cx="400" cy="400" stroke-width="4" stroke-dasharray="1979 2177"
+            transform="rotate(327, 400, 400)" opacity="0.58"></circle>
+        <circle r="315" cx="400" cy="400" stroke-width="4" stroke-dasharray="1619 1979"
+            transform="rotate(295, 400, 400)" opacity="0.92"></circle>
+        <circle r="283.5" cx="400" cy="400" stroke-width="4" stroke-dasharray="1295 1781"
+            transform="rotate(262, 400, 400)" opacity="0.85"></circle>
+        <circle r="252" cx="400" cy="400" stroke-width="4" stroke-dasharray="1008 1583"
+            transform="rotate(229, 400, 400)" opacity="0.39"></circle>
+        <circle r="220.5" cx="400" cy="400" stroke-width="4" stroke-dasharray="756 1385"
+            transform="rotate(196, 400, 400)" opacity="0.72"></circle>
+        <circle r="189" cx="400" cy="400" stroke-width="4" stroke-dasharray="540 1188" transform="rotate(164, 400, 400)"
+            opacity="0.29"></circle>
+        <circle r="157.5" cx="400" cy="400" stroke-width="4" stroke-dasharray="360 990"
+            transform="rotate(131, 400, 400)" opacity="0.30"></circle>
+        <circle r="126" cx="400" cy="400" stroke-width="4" stroke-dasharray="216 792" transform="rotate(98, 400, 400)"
+            opacity="0.52"></circle>
+        <circle r="94.5" cx="400" cy="400" stroke-width="4" stroke-dasharray="108 594" transform="rotate(65, 400, 400)"
+            opacity="0.99"></circle>
+        <circle r="63" cx="400" cy="400" stroke-width="4" stroke-dasharray="36 396" transform="rotate(33, 400, 400)"
+            opacity="0.63"></circle>
+        <circle r="31.5" cx="400" cy="400" stroke-width="4" stroke-dasharray="0 198" opacity="0.87"></circle>
+    </g>
+</svg>

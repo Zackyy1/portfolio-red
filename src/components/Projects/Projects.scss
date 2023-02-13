@@ -1,0 +1,31 @@
+#image-track {
+    display: flex;
+    // margin: 40px 0;
+    position: absolute;
+    left: calc(50% - 8rem);
+    top: 25%;
+    transform: translate(0%, -50%);
+    user-select: none;
+
+
+    >.image {
+        width: 16rem;
+        height: 20rem;
+        object-fit: cover;
+        max-width: -webkit-fill-available;
+        object-position: 100% center;
+        transition: 0.5s;
+
+        &.active {
+            // width: 80vmin;
+            // transition: all 0.5s ease;
+        }
+    }
+}
+
+
+@media (max-width: 768px) {
+    #image-track {
+        top: 10%;
+    }
+}
