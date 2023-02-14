@@ -28,12 +28,12 @@ const Contact = () => {
     );
 
     if (spiralAnimation3) {
-      observer.observe(spiralAnimation3);
+      // observer.observe(spiralAnimation3);
     }
 
     return () => {
       if (spiralAnimation3) {
-        observer.unobserve(spiralAnimation3);
+        // observer.unobserve(spiralAnimation3);
       }
     };
   }, []);
